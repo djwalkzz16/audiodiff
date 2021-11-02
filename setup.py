@@ -11,7 +11,7 @@ from audiodiff import __version__
 
 
 install_requires = [
-    'mutagenwrapper == 0.0.6.dev0',
+    'mutagenwrapper == 0.0.5',
     'termcolor == 1.1.0',
 ]
 
